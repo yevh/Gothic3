@@ -17,7 +17,7 @@ together, and keep your own character and progress.
 
 [Download the ZIP directly](https://github.com/yevh/Gothic3/releases/download/v0.35.0-beta.1/Myrtana-Accord-v0.35.0-beta.1-win32.zip)
 
-SHA-256: `1C13A6CBF64D219CB4C64FE818FC75FC027921C6C1958AC642535AFE7C558F3E`
+SHA-256: `C2C5B2752755AAD7D27009CC04BC47C515F93B32F0E2409B039AB0FDF8D0AE4E`
 
 > This is an open beta. Back up important saves before testing.
 
@@ -62,8 +62,14 @@ The host selects **New campaign** or **Continue campaign**. Friends select
 **Join / rejoin friends** and enter the host address or join code. Every player
 must use the same Myrtana Accord version.
 
-For internet play, the installer can prepare Tailscale. A local network or another
-working VPN can also be used.
+Your PCs must be able to reach each other on the same local network or a shared
+private VPN. If you are in different homes, install
+[Tailscale](https://tailscale.com/download) on every PC and give friends access
+to the host's Tailscale network. The installer can prepare Tailscale for you.
+[ZeroTier](https://www.zerotier.com/download/) is another option. Everyone must
+join the same ZeroTier network. Friends then enter the host's LAN or VPN address
+in **Join / rejoin friends**. See [internet play](docs/INTERNET_PLAY.md) for the
+full steps.
 
 ## Beta status
 
