@@ -17,7 +17,7 @@ together, and keep your own character and progress.
 
 [Download the ZIP directly](https://github.com/yevh/Gothic3/releases/download/v0.35.0-beta.1/Myrtana-Accord-v0.35.0-beta.1-win32.zip)
 
-SHA-256: `2EAFA3EBA9C5A1872A27721DA3C1BCFBF21308A7138CB830DE8C6F5420A40BB1`
+SHA-256: `1C13A6CBF64D219CB4C64FE818FC75FC027921C6C1958AC642535AFE7C558F3E`
 
 > This is an open beta. Back up important saves before testing.
 
@@ -93,6 +93,6 @@ a separately purchased copy of the game.
 
 If you want to support development:
 
-- **BTC:** `bc1q5hwjrdrdwdzx409jxzhwzq5nkws6sale246wde`
-- **ETH:** `0x4357FbA55494d10a3AC564A6BecaB6387a723a0B`
+- **BTC (Bitcoin network):** `bc1q5hwjrdrdwdzx409jxzhwzq5nkws6sale246wde`
+- **ETH (Ethereum network):** `0x4357FbA55494d10a3AC564A6BecaB6387a723a0B`
 - **USDT (TRON network):** `TVd1jehNaGt2YwL3rNiK5VzZbx1CGvRAa8`
