@@ -47,7 +47,7 @@ Click the animation to open the **12-second gameplay video**.
 
 You need Windows and a legal installation of Gothic 3.
 
-1. Download `Myrtana-Accord-v0.35.0-beta.1-win32.zip` from the release page.
+1. [Download Myrtana-Accord-v0.35.0-beta.1-win32.zip](https://github.com/yevh/Gothic3/releases/download/v0.35.0-beta.1/Myrtana-Accord-v0.35.0-beta.1-win32.zip).
 2. Extract the entire ZIP into a new folder.
 3. Run **Install Myrtana Accord.cmd** and approve the administrator prompt.
 4. Complete setup and open **Myrtana Accord** from the desktop.
